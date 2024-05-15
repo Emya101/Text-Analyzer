@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.List;
 
-public class PartA_Driver {
+public class TextDriver {
     public static void main(String[] args) {
         // Create a ProbeHashMap for words and their frequencies
         ProbeHashMap<String, Integer> wordMap = new ProbeHashMap<>();
